@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/Banner.png" alt="Suraj Rathod Banner" width="100%">
+</p>
 # Suraj Rathod
 
 ### Software Developer | Computer Engineering Student
