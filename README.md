@@ -2,7 +2,6 @@
   <img src="./assets/Banner.png" alt="Suraj Rathod Banner" width="100%">
 </p>
 
-<h1 align="center">Suraj Rathod</h1>
 
 <h3 align="center">Software Developer | Computer Engineering Student | AI Systems Builder</h3>
 
